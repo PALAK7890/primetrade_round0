@@ -20,6 +20,13 @@ This analysis combines market sentiment data with trader-level activity to study
 ### Core Insight
 Market sentiment is most useful when combined with trader segmentation rather than applied as a single global signal.
 
+## Strategy Recommendations
+
+1. Reduce position size and tighten risk controls during Fear periods to manage downside risk.
+
+2. Increase trading activity selectively during Greed periods for trader segments with higher win rates.
+
+3. Monitor directional exposure to avoid over-concentration in one market direction.
 ---
 
 ## Dataset
